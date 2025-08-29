@@ -1,16 +1,19 @@
 function Home() {
   const pageStyle = {
-    minHeight: "100vh",
+    height: "100vh",
+    width: "100vw",
     margin: 0,
+    padding: 0,
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
     background:
-      "linear-gradient(135deg, #0f172a 0%, #1f2937 40%, #0ea5e9 100%)",
+      "linear-gradient(135deg, #083112ff 0%, #065f46 40%, #10b981 100%)",
     color: "#e5e7eb",
     fontFamily:
       '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"',
     textAlign: "center",
+    overflow: "hidden",
   };
 
   const cardStyle = {
