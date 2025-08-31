@@ -81,7 +81,7 @@ function Home() {
           position: "fixed",
           inset: 0,
           background:
-            "linear-gradient(135deg, #074124ff 0%, #065f46 40%, #10b981 100%)",
+            "linear-gradient(135deg, #413307ff 0%, #06075fff 40%, #10b96aff 100%)",
           color: "#e5e7eb",
           fontFamily:
             '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"',
@@ -93,21 +93,13 @@ function Home() {
             onClick={() => setFlipped(!flipped)}
           >
             <div className="card-face card-front">
-              <h1>
-                Jordana, eu te amo.
-                <br />
-                🥰
-                <br />
-                Se você me ama, dá uma risadinha!
-              </h1>
+              <h1>A jornada mais longa começa com um único passo.</h1>
             </div>
             <div className="card-face card-back">
               <h1>
-                Obrigado por me inspirar.
+                Projeto clone-tabnews.
                 <br />
-                😍
-                <br />
-                Te amo mais que tudo!
+                Página em construção.
               </h1>
             </div>
           </div>
