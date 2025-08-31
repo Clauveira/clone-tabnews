@@ -81,7 +81,7 @@ function Home() {
           position: "fixed",
           inset: 0,
           background:
-            "linear-gradient(135deg, #413307ff 0%, #06075fff 40%, #10b96aff 100%)",
+            "linear-gradient(135deg, #070635ff 0%, #092d79ff 40%, #cf8413ff 100%)",
           color: "#e5e7eb",
           fontFamily:
             '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"',
