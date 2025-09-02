@@ -97,7 +97,7 @@ function Home() {
             </div>
             <div className="card-face card-back">
               <h1>
-                Projeto clone-tabnews.
+                Projeto GameDevTab.
                 <br />
                 Página em construção.
               </h1>

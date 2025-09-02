@@ -1,4 +1,6 @@
-# clone-tabnews
+# GameDevTab
+
+Projeto criado para fins educacionais, durante formação do [Curso.dev](https://curso.dev/).
 
 ### Comandos:
 
