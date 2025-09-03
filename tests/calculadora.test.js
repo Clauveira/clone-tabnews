@@ -1,9 +1,11 @@
-test("Conferindo que 1 é 1", () => {
-  var um = 1;
-  expect(um).toBe(1);
+const calculadora = require("../models/calculadora.js");
+
+test("soma", () => {
+  expect(calculadora.somar(1, 2)).toBe(3);
 });
 
-test("Conferindo que 2 não é 1", () => {
-  var dois = 2;
-  expect(dois).not.toBe(1);
+test("subtrai", () => {
+  const resultado = calculadora.subtrair(5, 2);
+  expect(resultado).toBe(3);
+  console.log("Resultado foi: ", resultado);
 });
