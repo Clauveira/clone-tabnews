@@ -2,12 +2,14 @@
 
 Projeto criado para fins educacionais, durante formação do [Curso.dev](https://curso.dev/).
 
-### Comandos:
+## Comandos:
 
 Rodar projeto: `npm run dev`
 
 Formatar código: `npm run lint:fix`
 
-Teste automatizados:
-    `npm test`
-    `npm run test:watch`
+### Teste automatizados:
+
+`npm test`
+
+`npm run test:watch`
